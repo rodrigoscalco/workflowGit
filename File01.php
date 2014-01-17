@@ -7,4 +7,5 @@
 	echo "File01 - version: master - status: Commited";
 	echo "File01 - version: local master - status: Commited";
 	echo "File01 - version: remote master - status: Commited";
+	echo "File01 - version: remote master 2 - status: Commited";
 ?>
