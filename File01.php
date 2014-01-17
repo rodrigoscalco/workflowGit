@@ -12,4 +12,5 @@
 	echo "File01 - version: local master 3 - status: Commited";
 	echo "File01 - version: remote master 3 - status: Commited";
 	echo "File01 - version: remote master 4 - status: Commited";
+	echo "File01 - version: local master 4 - status: Stashed";
 ?>
