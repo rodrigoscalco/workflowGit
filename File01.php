@@ -16,3 +16,4 @@
 	echo "File01 - version: local master 4 - status: Stashed";
 	echo "01";
 	echo "refs";
+	echo "refs close";
