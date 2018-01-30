@@ -18,3 +18,4 @@
 	echo "refs";
 	echo "refs close";
 	echo "refs close";
+	echo "refs close";
