@@ -17,3 +17,4 @@
 	echo "01";
 	echo "refs";
 	echo "refs close";
+	echo "refs close";
